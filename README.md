@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brahmancodedev
-- 👀 VideoGameStuido
+- 👀 VideoGameStudio
 - 🌱 TechStuffs
 
 
